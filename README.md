@@ -62,5 +62,5 @@ Contributions are welcome! Feel free to open issues or submit pull requests.
 
 ## 📄 License
 
-Licensed under the [MIT License](https://ramkoirala1123.github.io/thinking_orb_demo/).
+Licensed under the [MIT License](https://github.com/ramkoirala1123/orb_animations/blob/main/LICENSE).
 
