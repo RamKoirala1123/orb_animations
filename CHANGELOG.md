@@ -1,12 +1,6 @@
-## 1.0.1
-
-* Updated package metadata and repository links for GitHub/pub package publishing
-* Refined the package description and README wording for clearer publishing readiness
-* Finalized documentation and metadata cleanup before publishing the package
-
 ## 1.0.0
 
-* Initial release of `ai_thinking_orb`
+* Initial release of `orb_animations`
 * Animated thinking-orb widget with smooth, customizable motion
 * Six hand-tuned animation states: working, searching, solving, listening, composing, shaping
 * Two size presets: 64px (chat-avatar scale) and 20px (inline-text scale)

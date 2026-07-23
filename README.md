@@ -1,7 +1,7 @@
-# 🌀 ai_thinking_orb
-
-[![Pub Package](https://img.shields.io/pub/v/ai_thinking_orb)](https://pub.dev/packages/ai_thinking_orb)
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/ramkoirala1123/thinking_orb/blob/main/LICENSE)
+# 🌀 orb_animations
+s
+[![Pub Package](https://img.shields.io/pub/v/orb_animations)](https://pub.dev/packages/orb_animations)
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/ramkoirala1123/orb_animations/blob/main/LICENSE)
 [![Demo](https://img.shields.io/badge/Demo-View%20Demo-8b5cf6.svg)](https://ramkoirala1123.github.io/thinking_orb_demo/)
 
 A lightweight Flutter package for rendering animated, customizable thinking-orb widgets that can be used for playful loading indicators, live status visuals, and expressive UI feedback.
@@ -20,7 +20,7 @@ Add this to your `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  ai_thinking_orb: ^1.0.0
+  orb_animations: ^1.0.0
 ```
 
 Then run:
@@ -34,7 +34,7 @@ flutter pub get
 Import the package:
 
 ```dart
-import 'package:ai_thinking_orb/ai_thinking_orb.dart';
+import 'package:orb_animations/orb_animations.dart';
 ```
 
 Example usage:

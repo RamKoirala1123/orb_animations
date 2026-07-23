@@ -1,4 +1,4 @@
-# ai_thinking_orb
+# orb_animations_demo
 
 A new Flutter project.
 
