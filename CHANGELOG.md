@@ -1,3 +1,7 @@
+## 1.0.1
+
+* Expanded the Dart SDK constraint from `^3.12.2` to `>=3.8.0 <4.0.0` so the package supports older Flutter versions.
+
 ## 1.0.0
 
 * Initial release of `orb_animations`
