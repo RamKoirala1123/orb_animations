@@ -1,4 +1,4 @@
-## 1.0.2
+## 1.1.0
 
 * Updated demo animation asset URL and README visuals.
 
