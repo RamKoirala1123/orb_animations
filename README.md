@@ -8,7 +8,7 @@ A lightweight Flutter package for rendering animated, customizable thinking-orb 
 ## 🎬 Demo / Visuals
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ramkoirala1123/orb_animations/main/assets/demo.gif" alt="orb_animations Demo" width="600"/>
+  <img src="https://raw.githubusercontent.com/RamKoirala1123/orb_animations/refs/heads/main/assets/orb_demo.gif" alt="orb_animations Demo" width="600"/>
 </p>
 
 Try the package live in the web demo:
