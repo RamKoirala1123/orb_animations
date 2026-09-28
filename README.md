@@ -1,10 +1,19 @@
 # 🌀 orb_animations
-s
 [![Pub Package](https://img.shields.io/pub/v/orb_animations)](https://pub.dev/packages/orb_animations)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/ramkoirala1123/orb_animations/blob/main/LICENSE)
 [![Demo](https://img.shields.io/badge/Demo-View%20Demo-8b5cf6.svg)](https://ramkoirala1123.github.io/thinking_orb_demo/)
 
 A lightweight Flutter package for rendering animated, customizable thinking-orb widgets that can be used for playful loading indicators, live status visuals, and expressive UI feedback.
+
+## 🎬 Demo / Visuals
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ramkoirala1123/orb_animations/main/assets/demo.gif" alt="orb_animations Demo" width="600"/>
+</p>
+
+Try the package live in the web demo:
+
+👉 https://RamKoirala1123.github.io/thinking_orb_demo/
 
 ## 🚀 Features
 
@@ -49,12 +58,6 @@ ThinkingOrb(
 ```
 
 For a complete example, check out the demo app in this repository.
-
-## 🌐 Demo
-
-Try the package live in the demo app or connect your own hosted example here:
-
-👉 https://RamKoirala1123.github.io/thinking_orb_demo/
 
 ## 🤝 Contributing
 

@@ -1,6 +1,6 @@
 name: orb_animations
 description: "A lightweight Flutter package for animated thinking-orb widgets with customizable state, speed, and size."
-version: 1.0.1
+version: 1.0.2
 homepage: https://ramkoirala.com.np
 repository: https://github.com/ramkoirala1123/orb_animations
 issue_tracker: https://github.com/ramkoirala1123/orb_animations/issues
